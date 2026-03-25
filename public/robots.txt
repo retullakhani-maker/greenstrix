@@ -1,0 +1,8 @@
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://greenstrix.com/sitemap.xml
+
+
